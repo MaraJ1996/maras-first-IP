@@ -1,9 +1,13 @@
 body {
        background-color: lightblue;
+       background-image: url("Woodman.jpg");
 }
-img
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
 h1 {
-  color: blue;
+  color: Black;
 }
 <h2>Popular</h2>
  <ul>
