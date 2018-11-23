@@ -11,6 +11,6 @@
 * Provide an About Me section informing the reader about my background, educational history and interests in programming.
 * Deploy site onto GitHub pages
 ## Link to GitHub Pages
-https://maraj1996.github.io/maras-first-IP/
+
 ### License
 Copyright (c) {2018} **{Mara Jackson}**
