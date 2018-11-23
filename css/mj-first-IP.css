@@ -1,16 +1,20 @@
 body {
-       background-color: lightblue;
-       background-image: url("Woodman.jpg");
+       background-image:url("Woodman.jpg");
+       background-size: cover;
+       background-repeat: no-repeat;
+       color:white;
 }
 img {
     opacity: 0.5;
-    filter: alpha(opacity=50);
 }
 h1 {
-  color: Black;
+  color: white;
 }
-<h2>Popular</h2>
- <ul>
-</ul>
-</body>
-</html>
+#content{
+  padding: 20px;
+  background-color: black;
+  opacity:0.73;
+}
+#content ul li {
+  color:white;
+}
